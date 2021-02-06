@@ -142,7 +142,7 @@ export default function App() {
                     top: 20,
                     right: 20,
                   }}
-                  resizeMode="center"
+                  resizeMode="contain"
                   source={chip}
                 />
                 <View
@@ -181,7 +181,7 @@ export default function App() {
                     bottom: 0,
                     right: 20,
                   }}
-                  resizeMode="center"
+                  resizeMode="contain"
                   source={item.image}
                 />
               </Animated.View>
