@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "carousal60fps",
-    "slug": "carousal60fps",
+    "name": "Credit Card Carousel  ",
+    "slug": "creditcardcarousel60fps",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.devsourcecubes.creditcardcarousel60fps",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
